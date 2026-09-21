@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HuanTran212\\source\\repos\\GymFitLife\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD88AA5-DA68-4CEF-B559-7E8F0E3B7DC9}|GymFitLife\\GymFitLife.csproj|c:\\users\\huantran212\\source\\repos\\gymfitlife\\gymfitlife\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3FD88AA5-DA68-4CEF-B559-7E8F0E3B7DC9}|GymFitLife\\GymFitLife.csproj|solutionrelative:gymfitlife\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HuanTran212\\source\\repos\\GymFitLife\\GymFitLife\\Form1.cs",
+              "RelativeDocumentMoniker": "GymFitLife\\Form1.cs",
+              "ToolTip": "C:\\Users\\HuanTran212\\source\\repos\\GymFitLife\\GymFitLife\\Form1.cs [Design]",
+              "RelativeToolTip": "GymFitLife\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T02:31:06.517Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

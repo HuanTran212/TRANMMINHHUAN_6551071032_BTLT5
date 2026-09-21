@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HuanTran212\\source\\repos\\FormBanHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82CCB440-576D-4877-9BC3-042B311F8167}|FormBanHang\\FormBanHang.csproj|c:\\users\\huantran212\\source\\repos\\formbanhang\\formbanhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82CCB440-576D-4877-9BC3-042B311F8167}|FormBanHang\\FormBanHang.csproj|solutionrelative:formbanhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CCB440-576D-4877-9BC3-042B311F8167}|FormBanHang\\FormBanHang.csproj|c:\\users\\huantran212\\source\\repos\\formbanhang\\formbanhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CCB440-576D-4877-9BC3-042B311F8167}|FormBanHang\\FormBanHang.csproj|solutionrelative:formbanhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HuanTran212\\source\\repos\\FormBanHang\\FormBanHang\\Form1.cs",
+              "RelativeDocumentMoniker": "FormBanHang\\Form1.cs",
+              "ToolTip": "C:\\Users\\HuanTran212\\source\\repos\\FormBanHang\\FormBanHang\\Form1.cs [Design]",
+              "RelativeToolTip": "FormBanHang\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T03:45:29.627Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HuanTran212\\source\\repos\\FormBanHang\\FormBanHang\\Form1.cs",
+              "RelativeDocumentMoniker": "FormBanHang\\Form1.cs",
+              "ToolTip": "C:\\Users\\HuanTran212\\source\\repos\\FormBanHang\\FormBanHang\\Form1.cs",
+              "RelativeToolTip": "FormBanHang\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T03:44:57.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
