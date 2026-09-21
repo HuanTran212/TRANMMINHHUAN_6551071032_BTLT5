@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HuanTran212\\source\\repos\\MdiWindowListItem\\MdiWindowListItem\\MdiWindowListItem.csproj": {}
+    "D:\\Project\\TRANMMINHHUAN_6551071032_BTLT5\\MdiWindowListItem\\MdiWindowListItem\\MdiWindowListItem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HuanTran212\\source\\repos\\MdiWindowListItem\\MdiWindowListItem\\MdiWindowListItem.csproj": {
+    "D:\\Project\\TRANMMINHHUAN_6551071032_BTLT5\\MdiWindowListItem\\MdiWindowListItem\\MdiWindowListItem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HuanTran212\\source\\repos\\MdiWindowListItem\\MdiWindowListItem\\MdiWindowListItem.csproj",
+        "projectUniqueName": "D:\\Project\\TRANMMINHHUAN_6551071032_BTLT5\\MdiWindowListItem\\MdiWindowListItem\\MdiWindowListItem.csproj",
         "projectName": "MdiWindowListItem",
-        "projectPath": "C:\\Users\\HuanTran212\\source\\repos\\MdiWindowListItem\\MdiWindowListItem\\MdiWindowListItem.csproj",
+        "projectPath": "D:\\Project\\TRANMMINHHUAN_6551071032_BTLT5\\MdiWindowListItem\\MdiWindowListItem\\MdiWindowListItem.csproj",
         "packagesPath": "C:\\Users\\HuanTran212\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HuanTran212\\source\\repos\\MdiWindowListItem\\MdiWindowListItem\\obj\\",
+        "outputPath": "D:\\Project\\TRANMMINHHUAN_6551071032_BTLT5\\MdiWindowListItem\\MdiWindowListItem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

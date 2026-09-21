@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HuanTran212\\source\\repos\\MdiWindowListItem\\",
+  "WorkspaceRootPath": "D:\\Project\\TRANMMINHHUAN_6551071032_BTLT5\\MdiWindowListItem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10B0FC92-6395-4CEF-9037-4B4D008784D9}|MdiWindowListItem\\MdiWindowListItem.csproj|c:\\users\\huantran212\\source\\repos\\mdiwindowlistitem\\mdiwindowlistitem\\frmparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{10B0FC92-6395-4CEF-9037-4B4D008784D9}|MdiWindowListItem\\MdiWindowListItem.csproj|solutionrelative:mdiwindowlistitem\\frmparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{268F1CAE-4D53-838A-0E43-9D61B6861946}|MdiWindowListItem\\MdiWindowListItem.csproj|d:\\project\\tranmminhhuan_6551071032_btlt5\\mdiwindowlistitem\\mdiwindowlistitem\\frmparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{268F1CAE-4D53-838A-0E43-9D61B6861946}|MdiWindowListItem\\MdiWindowListItem.csproj|solutionrelative:mdiwindowlistitem\\frmparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10B0FC92-6395-4CEF-9037-4B4D008784D9}|MdiWindowListItem\\MdiWindowListItem.csproj|c:\\users\\huantran212\\source\\repos\\mdiwindowlistitem\\mdiwindowlistitem\\frmparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10B0FC92-6395-4CEF-9037-4B4D008784D9}|MdiWindowListItem\\MdiWindowListItem.csproj|solutionrelative:mdiwindowlistitem\\frmparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B0FC92-6395-4CEF-9037-4B4D008784D9}|MdiWindowListItem\\MdiWindowListItem.csproj|c:\\users\\huantran212\\source\\repos\\mdiwindowlistitem\\mdiwindowlistitem\\frmbenhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{10B0FC92-6395-4CEF-9037-4B4D008784D9}|MdiWindowListItem\\MdiWindowListItem.csproj|D:\\Project\\TRANMMINHHUAN_6551071032_BTLT5\\MdiWindowListItem\\mdiwindowlistitem\\frmbenhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{10B0FC92-6395-4CEF-9037-4B4D008784D9}|MdiWindowListItem\\MdiWindowListItem.csproj|solutionrelative:mdiwindowlistitem\\frmbenhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10B0FC92-6395-4CEF-9037-4B4D008784D9}|MdiWindowListItem\\MdiWindowListItem.csproj|c:\\users\\huantran212\\source\\repos\\mdiwindowlistitem\\mdiwindowlistitem\\frmlichhen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{10B0FC92-6395-4CEF-9037-4B4D008784D9}|MdiWindowListItem\\MdiWindowListItem.csproj|D:\\Project\\TRANMMINHHUAN_6551071032_BTLT5\\MdiWindowListItem\\mdiwindowlistitem\\frmlichhen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{10B0FC92-6395-4CEF-9037-4B4D008784D9}|MdiWindowListItem\\MdiWindowListItem.csproj|solutionrelative:mdiwindowlistitem\\frmlichhen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268F1CAE-4D53-838A-0E43-9D61B6861946}|MdiWindowListItem\\MdiWindowListItem.csproj|d:\\project\\tranmminhhuan_6551071032_btlt5\\mdiwindowlistitem\\mdiwindowlistitem\\frmparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268F1CAE-4D53-838A-0E43-9D61B6861946}|MdiWindowListItem\\MdiWindowListItem.csproj|solutionrelative:mdiwindowlistitem\\frmparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,35 +30,31 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "frmLichHen.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HuanTran212\\source\\repos\\MdiWindowListItem\\MdiWindowListItem\\frmLichHen.cs",
+              "DocumentMoniker": "D:\\Project\\TRANMMINHHUAN_6551071032_BTLT5\\MdiWindowListItem\\MdiWindowListItem\\frmLichHen.cs",
               "RelativeDocumentMoniker": "MdiWindowListItem\\frmLichHen.cs",
               "ToolTip": "C:\\Users\\HuanTran212\\source\\repos\\MdiWindowListItem\\MdiWindowListItem\\frmLichHen.cs [Design]",
-              "RelativeToolTip": "MdiWindowListItem\\frmLichHen.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-21T03:27:06.684Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmBenhNhan.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HuanTran212\\source\\repos\\MdiWindowListItem\\MdiWindowListItem\\frmBenhNhan.cs",
-              "RelativeDocumentMoniker": "MdiWindowListItem\\frmBenhNhan.cs",
-              "ToolTip": "C:\\Users\\HuanTran212\\source\\repos\\MdiWindowListItem\\MdiWindowListItem\\frmBenhNhan.cs [Design]",
-              "RelativeToolTip": "MdiWindowListItem\\frmBenhNhan.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-21T03:26:52.083Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-09-21T03:27:06.684Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "frmBenhNhan.cs [Design]",
+              "DocumentMoniker": "D:\\Project\\TRANMMINHHUAN_6551071032_BTLT5\\MdiWindowListItem\\MdiWindowListItem\\frmBenhNhan.cs",
+              "RelativeDocumentMoniker": "MdiWindowListItem\\frmBenhNhan.cs",
+              "ToolTip": "C:\\Users\\HuanTran212\\source\\repos\\MdiWindowListItem\\MdiWindowListItem\\frmBenhNhan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T03:26:52.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "frmParent.cs",
-              "DocumentMoniker": "C:\\Users\\HuanTran212\\source\\repos\\MdiWindowListItem\\MdiWindowListItem\\frmParent.cs",
+              "DocumentMoniker": "D:\\Project\\TRANMMINHHUAN_6551071032_BTLT5\\MdiWindowListItem\\MdiWindowListItem\\frmParent.cs",
               "RelativeDocumentMoniker": "MdiWindowListItem\\frmParent.cs",
-              "ToolTip": "C:\\Users\\HuanTran212\\source\\repos\\MdiWindowListItem\\MdiWindowListItem\\frmParent.cs",
+              "ToolTip": "D:\\Project\\TRANMMINHHUAN_6551071032_BTLT5\\MdiWindowListItem\\MdiWindowListItem\\frmParent.cs",
               "RelativeToolTip": "MdiWindowListItem\\frmParent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -69,9 +65,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "frmParent.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HuanTran212\\source\\repos\\MdiWindowListItem\\MdiWindowListItem\\frmParent.cs",
+              "DocumentMoniker": "D:\\Project\\TRANMMINHHUAN_6551071032_BTLT5\\MdiWindowListItem\\MdiWindowListItem\\frmParent.cs",
               "RelativeDocumentMoniker": "MdiWindowListItem\\frmParent.cs",
-              "ToolTip": "C:\\Users\\HuanTran212\\source\\repos\\MdiWindowListItem\\MdiWindowListItem\\frmParent.cs [Design]",
+              "ToolTip": "D:\\Project\\TRANMMINHHUAN_6551071032_BTLT5\\MdiWindowListItem\\MdiWindowListItem\\frmParent.cs [Design]",
               "RelativeToolTip": "MdiWindowListItem\\frmParent.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-21T03:25:06.683Z",

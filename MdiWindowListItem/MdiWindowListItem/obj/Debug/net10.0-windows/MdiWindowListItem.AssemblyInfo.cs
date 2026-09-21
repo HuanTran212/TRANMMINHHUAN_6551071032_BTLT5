@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MdiWindowListItem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+699bfe9159e493edb29af2d504f5d419a85305ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("MdiWindowListItem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MdiWindowListItem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
